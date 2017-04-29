@@ -1,1 +1,1 @@
-This is a file someone else changed/
+This is a file someone else changed but at least it is still in the master. 
